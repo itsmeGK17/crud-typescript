@@ -1,0 +1,45 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "stuname": "Om",
+      "email": "om@gmail.com"
+    },
+    {
+      "id": "2",
+      "stuname": "Poonam",
+      "email": "poonam@gmail.com"
+    },
+    {
+      "id": "3",
+      "stuname": "Arjun",
+      "email": "arjun@gmail.com"
+    },
+    {
+      "id": "4",
+      "stuname": "Ved",
+      "email": "ved@gmail.com"
+    },
+    {
+      "id": "5",
+      "stuname": "Vaidehi",
+      "email": "vaidehi@gmail.com"
+    },
+    {
+      "id": "6",
+      "stuname": "Khushi",
+      "email": "khushi@gmail.com"
+    },
+    {
+      "id": "7",
+      "stuname": "Dharmik",
+      "email": "dharmik@gmail.com"
+    },
+    {
+      "id": "8",
+      "stuname": "Nehal",
+      "email": "Nehal@gmail.com"
+    }
+   
+  ]
+}
